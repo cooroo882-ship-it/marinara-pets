@@ -1,2 +1,2 @@
-# New-repository
+# marinara-pets
 Marinara personal extensions
