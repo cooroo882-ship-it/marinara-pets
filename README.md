@@ -22,8 +22,11 @@ Marinara용 시메지 개인 확장 모음입니다.
 - 커피 / 출근 등 추가 행동
 - 기존 콘보방에 기반한 간단한 대사
 
-
 ## 주의
 
 마리나라 v2.5.0 에서 만든 개인 제작 확장입니다.  
 Marinara 버전 변경에 따라 일부 기능이 동작하지 않을 수 있습니다.
+# Marinara Pets
+
+GitHub 확장 관리자 연결 주소:
+https://github.com/cooroo882-ship-it/marinara-pets
